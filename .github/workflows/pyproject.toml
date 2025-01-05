@@ -1,7 +1,7 @@
 [project]
 name = "random-int-divisor-node"
 description = "A set of custom ComfyUI nodes for generating random integers within a range, adjusted to the nearest multiple of a user-defined divisor. Needlessly includes both an efficient and simple list implementation. Updates with each generation."
-version = "1.0.0"
+version = "1.1.0"
 license = {file = "LICENSE"}
 
 [project.urls]
